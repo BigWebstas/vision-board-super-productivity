@@ -7,7 +7,7 @@ A customizable two-page goals dashboard for Super Productivity.
 ## Features
 
 - Up to 15 persistent goals per page
-- Multiple row × column arrangements (3x3, 3x4, 4x3, 5x3)
+- Multiple row × column arrangements (3x3, 3x4, 4x3, 4x4, 5x3)
 - Drag-and-drop box ordering
 - Independent Page 1 and Page 2 layouts
 - Rich-text descriptions (bold, italics, underline)
