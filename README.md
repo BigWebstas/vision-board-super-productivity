@@ -48,7 +48,7 @@ Recommended image sizes (with card titles removed)
 
 1. Open the repository’s **Releases** page.
 2. Open the latest release.
-3. Under **Assets**, download **only the zip file**.
+3. Under **Assets**, download **zip file with title "goals-vision-board" followed by a version code**. 
 4. Do not download **Source code (zip)** or **Source code (tar.gz)**.
 5. Open Super Productivity.
 6. Go to **Settings → Plugins**.
