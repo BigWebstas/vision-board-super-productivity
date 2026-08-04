@@ -54,7 +54,7 @@ Recommended image sizes (with card titles removed)
 6. Go to **Settings → Plugins**.
 7. Select **Upload plugin**.
 8. Choose the file you downloaded. It should look something like: **goals-vision-board** followed by a version code.
-9. Enable the plugin.
+9. **Enable** the plugin.
 10. Open **Goals** from the Super Productivity header.
 
 > **Important:** The ZIP downloaded through GitHub’s green **Code → Download ZIP** button is the repository source archive and cannot be installed as a Super Productivity plugin.
