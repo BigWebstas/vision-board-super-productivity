@@ -67,6 +67,10 @@ The plugin does not include or transmit the developer’s saved goals.
 Each user’s board content is stored through Super Productivity’s plugin
 persistence system in that user’s own environment.
 
+## Platform support
+
+Developed and tested on Windows desktop. Linux and macOS may work but are untested. Android and iOS are not supported.
+
 ## Compatibility
 
 Requires Super Productivity 14.0.0 or later.
