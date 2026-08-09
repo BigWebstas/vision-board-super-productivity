@@ -1,47 +1,68 @@
 # vision-board-super-productivity
-A customizable visual board plugin for long term goals, reminders, and notes
+A customizable visual board plugin for long term goals, reminders, notes, photos, quotes, and item tracker
+
 # Goals Vision Board for Super Productivity
 
-A customizable two-page goals dashboard for Super Productivity.
+I created this plugin to solve a few problems:
+
+- I wanted a way to visually remind me of my long term goals and dreams 
+
+- I wanted to track items in a way that habit trackers can't
+
+- I wanted to see the things I had buried under projects, boards or folders, or simply missed because I didn't scroll down and forgot they even existed.
+
+- I wanted my Kanban board and vision board in one lightweight app
+
+Creating this plugin was my attempt to solve the problems that Trello, Notion, Obsidian and others couldn't.
+
+**Important**
+
+Any existing data (content, tags) may or may not work with new versions. Take a photo or write down the information before updating.
 
 ## Features
 
-- Up to 15 persistent goals per page
-- Multiple row × column arrangements (3x3, 3x4, 4x3, 4x4, 5x3)
-- Drag-and-drop box ordering
-- Independent Page 1 and Page 2 layouts
-- Rich-text descriptions (bold, italics, underline)
-- Font type and font size selection
-- Bullets and interactive checklists
-- Removable card titles
-- 2 column texts
-- Image upload (1 image per card; max 3 images per page; plugin may slowdown with 3 images on each page)
-- Horizontal dividers
-- Custom reusable tags
-- Optional lower information boxes
-- Local and synchronized plugin persistence
+**Features:**
 
-Recommended image sizes (with card titles removed)
+- Multiple card arrangements (3r x 3c, 4r x 3c, 5r x 3c, 3r x 4c, 4r x 4c) with drag and drop reordering
 
-3 row × 3 column -- 1200 × 760 px
+- Additional cards on page 2
 
-3 row × 4	column -- 1200 × 1050 px
+- Customizable card description box (font type, font size, bold, italics, underline, bullet, checkbox, horizontal line insert, column insert, removable title)
 
-4 row × 3	column -- 1200 × 760 px
+- Information box (previously called metrics boxes): separate key information from what can be a text heavy description box for increased visibility (ie. # of job applications, desired weight, calorie goal while description can be a list of companies, why you want to lose weight, meal options)
 
-5 row × 3	column -- 1200 × 760 px
+- Accessible from left and top panels
+
+- Editable title
+
+- Local data storage
+
+- Photo card: 2 cards can be selected to show photos and each can store up to 4 photos. Cards with 1 photo do not rotate. The plugin may slow down on open, save, and sync at 8 photos. Rotation cycle is 1 week
+
+- Quote card: 3 cards can be selected to show quotes and each can store up to 6 quotes. Each card can show 1 long quote or 2 short quotes. Cards with 1 long quote or 2 short quotes do not rotate. (Note: aside from quotes, they can also be for personal reminders you tell yourself or anything else text-based.). Rotation cycle is 1 week
+
+- Character limit in description box from 1,200 to 1,500
+
+- Habit/Item tracker for various card arrangements: checkboxes, text/number entries (ie. weight, distance ran, chapters read). Extras: hide checkboxes (not tracking an item during a certain time), coloured checkboxes, separator rows (for different item types on one tracker), custom row and columns (allows for combining daily habits and monthly habits on one tracker when used with hide checkbox)
+
+- Tags: use your own Super Productivity tags
+
+- Back up via export/import to json and readable text file
+
+- Red, pink, yellow fonts and updated dark mode font colours in card description box
+
 
 ## Screenshots
 
 ### Goals board
 
-<img width="2169" height="1504" alt="Screenshot 2026-07-17 094724" src="https://github.com/user-attachments/assets/c6a0984a-ed80-4e2d-a950-0e60cdb4fd36" />
+<img width="2168" height="1504" alt="Screenshot 2026-08-08 233810" src="https://github.com/user-attachments/assets/971f920b-6897-46d2-baf1-5f1a827fb847" />
 
-<img width="2169" height="1504" alt="Screenshot 2026-07-17 095131" src="https://github.com/user-attachments/assets/28102c2a-b91b-4fe1-94af-a5844dbc4320" />
+<img width="2168" height="1504" alt="Screenshot 2026-08-09 000405" src="https://github.com/user-attachments/assets/cffab5bb-444a-4320-af87-28a871840f99" />
 
-### Edit mode
+<img width="2168" height="1504" alt="Screenshot 2026-08-08 234143" src="https://github.com/user-attachments/assets/92d058ec-bf63-4f1c-87f6-6248c404107d" />
 
-<img width="2169" height="1504" alt="Screenshot 2026-07-17 095201" src="https://github.com/user-attachments/assets/811e1102-de72-4262-bb2a-ecc4df99deeb" />
+<img width="2168" height="1504" alt="Screenshot 2026-08-09 000453" src="https://github.com/user-attachments/assets/96619b53-ddea-49cb-93bf-8875ec7d9417" />
 
 
 ## Installation
