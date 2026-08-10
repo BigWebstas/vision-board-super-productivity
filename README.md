@@ -9,7 +9,7 @@ I created this plugin to solve a few problems:
 
 - I wanted to track items in a way that habit trackers can't
 
-- I wanted to see the things I had buried under projects, boards or folders, or simply missed because I didn't scroll down and forgot they even existed.
+- I wanted to see the things I had buried under projects, boards or folders, or simply missed because I didn't click into something or scroll down and forgot they even existed.
 
 - I wanted my Kanban board and vision board in one lightweight app
 
