@@ -15,7 +15,7 @@ I created this plugin to solve a few problems:
 
 Creating this plugin was my attempt to solve the problems that Trello, Notion, Obsidian and others couldn't.
 
-**Important**
+## Important
 
 Any existing data (content, tags) may or may not work with new versions. Take a photo or write down the information before updating.
 
