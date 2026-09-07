@@ -1,4 +1,4 @@
-# vision-board-super-productivity
+#Fork of vision-board-super-productivity 
 A customizable visual board plugin for long term goals, reminders, notes, photos, quotes, and item tracker
 
 # Goals Vision Board for Super Productivity
@@ -20,7 +20,7 @@ Creating this plugin was my attempt to solve the problems that Trello, Notion, O
 Any existing data (content, tags) may or may not work with new versions. Take a photo or write down the information before updating.
 
 ## Features
-
+Fixed the Sync, added page manipulation (Ex add/remove a page)
 **Features:**
 
 - Multiple card arrangements (3r x 3c, 4r x 3c, 5r x 3c, 3r x 4c, 4r x 4c) with drag and drop reordering
