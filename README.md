@@ -25,7 +25,7 @@ Any existing data (content, tags) may or may not work with new versions. Take a 
 
 - Multiple card arrangements (3r x 3c, 4r x 3c, 5r x 3c, 3r x 4c, 4r x 4c) with drag and drop reordering
 
-- Additional cards on page 2
+- Multiple pages: the board starts with a single page. In Edit mode, use **Add page** for more and **Remove page** to delete the current one (asks to confirm first). The page button cycles through pages and shows `Page X/N`.
 
 - Customizable card description box (font type, font size, bold, italics, underline, bullet, checkbox, horizontal line insert, column insert, removable title)
 
