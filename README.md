@@ -21,6 +21,7 @@ Any existing data (content, tags) may or may not work with new versions. Take a 
 
 ## Features
 Fixed the Sync, added page manipulation (Ex add/remove a page)
+
 **Features:**
 
 - Multiple card arrangements (3r x 3c, 4r x 3c, 5r x 3c, 3r x 4c, 4r x 4c) with drag and drop reordering
