@@ -1,1 +1,1 @@
-(()=>{const p=PluginAPI,O=()=>p.showIndexHtmlAsView();p.onReady(()=>{p.registerMenuEntry?.({label:'Goals Vision Board',icon:'track_changes',onClick:O});p.registerHeaderButton?.({label:'Goals',icon:'track_changes',onClick:O})})})();
+(()=>{const p=PluginAPI,O=()=>p.showIndexHtmlAsView();p.onReady(()=>{p.registerHeaderButton?.({label:'Goals',icon:'track_changes',onClick:O})})})();
